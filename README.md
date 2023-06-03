@@ -1,6 +1,7 @@
 # shopping_list
 
-A new Flutter project.
+
+![Samsung Galaxy Note 10](https://github.com/satyam1560/shopping_list/assets/68018492/94aad6d1-7ce5-4f29-a434-5d771cbfb62e)
 
 ## Getting Started
 
